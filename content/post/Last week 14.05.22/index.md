@@ -45,4 +45,3 @@ categories:
 1. Last week I managed to publish 2 posts on my website thanks to the Hugo statistical website generator. **You can see them by going to the post section.**
 2. I also managed to do two laboratory work on the subject of "Operating Systems": The Midnight Commander command shell and the VI Text Editor.
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
